@@ -1,0 +1,10 @@
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\bin\Debug\HogCountryUniversity.exe.config
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\bin\Debug\HogCountryUniversity.exe
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\bin\Debug\HogCountryUniversity.pdb
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.csproj.AssemblyReference.cache
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.Properties.Resources.resources
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.csproj.GenerateResource.cache
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.csproj.CoreCompileInputs.cache
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.exe
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.pdb
+C:\Users\mariaa\source\repos\HogCountryUniversity\HogCountryUniversity\obj\Debug\HogCountryUniversity.Form1.resources
